@@ -8,3 +8,16 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+
+# IntelliJ
+.idea/
+*.iml
+out/
+target/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
